@@ -1,2 +1,18 @@
-# threejs-typescript-webpack
-Basic Template Three.JS in Typescript packed with Webpack
+# Typescript Three.js Webpack Starter
+
+- Typescript support.
+- Webpack
+- Html plugin
+
+### pre-requirement:
+
+```
+npm install typescript -g
+```
+
+### Start
+
+```
+$ yarn
+$ npm start
+```
